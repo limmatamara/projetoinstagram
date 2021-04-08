@@ -1,0 +1,20 @@
+@media (max-width: 1024px){
+    .container {
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 650px){
+    .container {
+        width: 90%;
+    }
+
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        width: 100%;
+    }
+}
